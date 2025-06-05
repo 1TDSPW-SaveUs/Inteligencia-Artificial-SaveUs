@@ -1,0 +1,1193 @@
+{
+  "intents": [
+    {
+      "intent": "apresentar",
+      "examples": [
+        {
+          "text": "Boa noite"
+        },
+        {
+          "text": "Boa tarde"
+        },
+        {
+          "text": "Bom dia"
+        },
+        {
+          "text": "E ai?"
+        },
+        {
+          "text": "E ai mano"
+        },
+        {
+          "text": "Oi"
+        },
+        {
+          "text": "Oieee"
+        },
+        {
+          "text": "Oii, preciso de ajuda"
+        },
+        {
+          "text": "Olá!"
+        },
+        {
+          "text": "Ola, como vai"
+        },
+        {
+          "text": "Olá, gostaria de ajuda"
+        },
+        {
+          "text": "Salve"
+        },
+        {
+          "text": "Tudo bem?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "atendimento_humano",
+      "examples": [
+        {
+          "text": "atendente por favor"
+        },
+        {
+          "text": "atendimento de gente"
+        },
+        {
+          "text": "atendimento humano"
+        },
+        {
+          "text": "falar com atendente humano"
+        },
+        {
+          "text": "falar com humano"
+        },
+        {
+          "text": "falar com suporte humano"
+        },
+        {
+          "text": "me transfere pra um humano"
+        },
+        {
+          "text": "posso falar com alguém?"
+        },
+        {
+          "text": "posso falar com algum atendente humano?"
+        },
+        {
+          "text": "posso falar com suporte?"
+        },
+        {
+          "text": "quero atendimento de gente"
+        },
+        {
+          "text": "quero atendimento humano"
+        },
+        {
+          "text": "quero falar com alguém"
+        },
+        {
+          "text": "quero falar com atendente"
+        },
+        {
+          "text": "tem alguém para atender?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "como_se_proteger",
+      "examples": [
+        {
+          "text": "Como posso me proteger se a água subir?"
+        },
+        {
+          "text": "Como proteger minha família?"
+        },
+        {
+          "text": "É seguro ficar em casa durante a chuva?"
+        },
+        {
+          "text": "Me dá dicas de segurança?"
+        },
+        {
+          "text": "Onde é mais seguro me abrigar?"
+        },
+        {
+          "text": "O que fazer durante uma enchente?"
+        },
+        {
+          "text": "O que fazer quando a rua estiver inundada?"
+        },
+        {
+          "text": "Posso usar o elevador em enchentes?"
+        },
+        {
+          "text": "Preciso sair de casa ou esperar?"
+        },
+        {
+          "text": "Quais são as orientações em caso de alagamento?"
+        },
+        {
+          "text": "Que cuidados tomar com crianças e idosos?"
+        },
+        {
+          "text": "Tenho que desligar a energia?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "despedida",
+      "examples": [
+        {
+          "text": "até a próxima"
+        },
+        {
+          "text": "até logo"
+        },
+        {
+          "text": "até mais"
+        },
+        {
+          "text": "encerra por favor"
+        },
+        {
+          "text": "encerrar"
+        },
+        {
+          "text": "finalizando"
+        },
+        {
+          "text": "Finalizar agendamento"
+        },
+        {
+          "text": "Finalizar atendimento"
+        },
+        {
+          "text": "flw"
+        },
+        {
+          "text": "obrigado! Tchau tchau"
+        },
+        {
+          "text": "pode fechar"
+        },
+        {
+          "text": "reiniciar"
+        },
+        {
+          "text": "sair"
+        },
+        {
+          "text": "tchau"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "emergencia",
+      "examples": [
+        {
+          "text": "Como chamo a Defesa Civil?"
+        },
+        {
+          "text": "emergencia para"
+        },
+        {
+          "text": "Estamos sem energia e com alagamento"
+        },
+        {
+          "text": "Me ajuda, estou isolado"
+        },
+        {
+          "text": "Não consigo sair de casa"
+        },
+        {
+          "text": "O socorro ainda não chegou"
+        },
+        {
+          "text": "Pode chamar resgate?"
+        },
+        {
+          "text": "Preciso avisar uma situação crítica"
+        },
+        {
+          "text": "Preciso de ajuda!"
+        },
+        {
+          "text": "Quem eu devo contatar em caso de emergência?"
+        },
+        {
+          "text": "Socorro urgente no bairro Centro"
+        },
+        {
+          "text": "Tem alguém passando mal aqui"
+        },
+        {
+          "text": "Tem uma pessoa presa aqui"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "locais_seguro",
+      "examples": [
+        {
+          "text": "Abrigo"
+        },
+        {
+          "text": "Abrigo na"
+        },
+        {
+          "text": "Aonde reside abrigos?"
+        },
+        {
+          "text": "Como encontro um ponto seguro?"
+        },
+        {
+          "text": "Estou em risco, tem algum lugar para me abrigar?"
+        },
+        {
+          "text": "Existe algum posto de atendimento na minha área?"
+        },
+        {
+          "text": "Me diga um local seguro aqui na região"
+        },
+        {
+          "text": "Onde posso ficar em segurança?"
+        },
+        {
+          "text": "Onde tem abrigo por perto?"
+        },
+        {
+          "text": "Para onde devo ir em caso de emergência?"
+        },
+        {
+          "text": "Preciso ir para um abrigo"
+        },
+        {
+          "text": "Quais são os locais indicados pela Defesa Civil?"
+        },
+        {
+          "text": "Qual o ponto de apoio mais próximo?"
+        },
+        {
+          "text": "Tem centro comunitário funcionando?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "sobre_projeto",
+      "examples": [
+        {
+          "text": "Como funciona esse sistema?"
+        },
+        {
+          "text": "Como surgiu essa ideia?"
+        },
+        {
+          "text": "Esse sistema é oficial da Defesa Civil?"
+        },
+        {
+          "text": "É um site oficial?"
+        },
+        {
+          "text": "Isso foi feito por estudantes?"
+        },
+        {
+          "text": "O que é o SaveUs?"
+        },
+        {
+          "text": "O que vocês fazem exatamente?"
+        },
+        {
+          "text": "Qual a função do SaveUs?"
+        },
+        {
+          "text": "Qual o objetivo desse projeto?"
+        },
+        {
+          "text": "Qual o propósito dessa plataforma?"
+        },
+        {
+          "text": "Quem criou essa plataforma?"
+        },
+        {
+          "text": "Sobre o Projeto"
+        },
+        {
+          "text": "Vocês fazem parte de alguma instituição?"
+        },
+        {
+          "text": "Vocês monitoram enchentes?"
+        },
+        {
+          "text": "Vocês trabalham com a Defesa Civil?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "acao_segura",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "desligar energia",
+          "synonyms": [
+            "cortar a luz",
+            "desligar geral",
+            "tirar da tomada"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "esperar socorro",
+          "synonyms": [
+            "aguardar ajuda",
+            "esperar resgate",
+            "ficar no local"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "evacuar",
+          "synonyms": [
+            "deixar a casa",
+            "fugir",
+            "sair",
+            "sair da área",
+            "se retirar"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "cpf",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "cpf",
+          "patterns": [
+            "(\\d{3}.\\d{3}.\\d{3}-\\d{2})",
+            "(\\d{11})"
+          ]
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "grupo_risco",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "criança",
+          "synonyms": [
+            "bebê",
+            "crianças",
+            "filha",
+            "filho",
+            "menor",
+            "pequeno"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gestante",
+          "synonyms": [
+            "grávida",
+            "mulher esperando bebê",
+            "mulher gestante"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "idoso",
+          "synonyms": [
+            "aposentado",
+            "idosos",
+            "senhor",
+            "senhora",
+            "terceira idade",
+            "velho"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pcd",
+          "synonyms": [
+            "cadeirante",
+            "deficiente",
+            "pessoa com deficiência"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "localizacao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Centro",
+          "synonyms": [
+            "centrao"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Zona Leste",
+          "synonyms": [
+            "Leste",
+            "Região Leste",
+            "ZL"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Zona Norte",
+          "synonyms": [
+            "Norte",
+            "Região Norte",
+            "ZN"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Zona Oeste",
+          "synonyms": [
+            "Oeste",
+            "Região Oeste",
+            "Zo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Zona Sul",
+          "synonyms": [
+            "Região Sul",
+            "Sul",
+            "ZS"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "nivel_alerta",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "alto",
+          "synonyms": [
+            "crítico",
+            "grave",
+            "perigoso",
+            "risco alto"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "emergência",
+          "synonyms": [
+            "emergência",
+            "evacuar",
+            "risco extremo",
+            "total",
+            "urgente"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "leve",
+          "synonyms": [
+            "fraco",
+            "inicials",
+            "sem risco imediato",
+            "tranquilo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "moderado",
+          "synonyms": [
+            "alerta intermediário",
+            "atenção",
+            "instável",
+            "médio"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sim_nao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Não",
+          "synonyms": [
+            "n",
+            "ñ",
+            "nao",
+            "negativo",
+            "nn"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sim",
+          "synonyms": [
+            "Com certeza",
+            "Positivo",
+            "S",
+            "Si",
+            "Ss"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "tipo_desastre",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "deslizamento",
+          "synonyms": [
+            "barranco caindo",
+            "desmoronamento",
+            "queda de barreira"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "enchente",
+          "synonyms": [
+            "alagamento",
+            "inundação",
+            "rua alagada"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "incêndio",
+          "synonyms": [
+            "fogo",
+            "fogo na região",
+            "queimada"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "vendaval",
+          "synonyms": [
+            "ciclone",
+            "rajadas",
+            "tempestade de vento",
+            "vento forte"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá, eu sou o Guardian. Estou aqui para te orientar e agir rápido em caso de emergência. Como posso te ajudar agora?\n\n🍃 Como me proteger.\n🛑 Emergência.\n🛟 Sobre o Projeto. \n☎️ Atendimento Humano."
+              },
+              {
+                "text": "Bem-vindo ao SaveUs Chatbot. Sou o Guardian, seu apoio durante desastres. Me diga o que está acontecendo.\n\n🍃 Como me proteger.\n🛑 Emergência\n🛟 Sobre o Projeto. \n☎️ Atendimento Humano."
+              },
+              {
+                "text": "Sou o Guardian. Vamos juntos agir com segurança. Qual situação você está enfrentando?\n\n🍃 Como me proteger.\n🛑 Emergência\n🛟 Sobre o Projeto. \n☎️ Atendimento Humano."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome || #apresentar",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi. Você pode tentar reformular a frase."
+              },
+              {
+                "text": "Você pode reformular sua afirmação? Eu não estou entendendo."
+              },
+              {
+                "text": "Eu não entendi o sentido."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "digress_in": "does_not_return",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_10_1748644364619",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_3_1748654821037",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1748654821047",
+      "previous_sibling": "handler_7_1748654821047"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_1_1748654690642",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1748654690651",
+      "previous_sibling": "handler_6_1748654690651"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1748654690642",
+      "context": {
+        "grupo": "@grupo_risco"
+      },
+      "conditions": "@grupo_risco",
+      "event_name": "input",
+      "dialog_node": "handler_6_1748654690651"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1748654821037",
+      "context": {
+        "grupo": "@grupo_risco"
+      },
+      "conditions": "@grupo_risco",
+      "event_name": "input",
+      "dialog_node": "handler_7_1748654821047"
+    },
+    {
+      "type": "standard",
+      "title": "Despedida",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Se precisar novamente, estarei aqui. Fique em segurança."
+              },
+              {
+                "text": "Encerrando por agora. Siga atento e priorize locais seguros."
+              },
+              {
+                "text": "Tome cuidado e siga as orientações da Defesa Civil. Até logo!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#despedida",
+      "dialog_node": "node_10_1748644364619",
+      "previous_sibling": "node_1_1748644741846"
+    },
+    {
+      "type": "standard",
+      "title": "Atendimento Humano",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Claro! Vou te direcionar para o suporte especializado para te ajudar melhor."
+              },
+              {
+                "text": "Pode deixar! Vou encaminhar você ao time de suporte. Eles vão assumir daqui."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#atendimento_humano",
+      "dialog_node": "node_10_1748644698156",
+      "previous_sibling": "node_3_1748655113845"
+    },
+    {
+      "type": "standard",
+      "title": "Emergencia",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🚨 Entendido. Situação de emergência detectada.\nPara que eu possa orientar corretamente, me diga por favor:\nA pessoa em risco pertence a algum desses grupos?\n\n👵 Idoso\n🧒 Criança\n♿ Pessoa com deficiência\n🤰 Gestante"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#emergencia",
+      "dialog_node": "node_10_1748651362232",
+      "previous_sibling": "node_2_1748647563150"
+    },
+    {
+      "type": "standard",
+      "title": "Sobre o Projeto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🛟 O SaveUs é uma plataforma digital criada para apoiar comunidades durante desastres naturais, especialmente enchentes.\n\nEla foi desenvolvida por estudantes da FIAP com o objetivo de salvar vidas, facilitar o resgate e promover ações preventivas.\nO sistema oferece um mapa interativo com pessoas em risco, área de relatos da comunidade, chatbot informativo (como eu, o Guardian 😄) e até simulações de alerta.\n\nNosso foco é agir rápido, informar com clareza e proteger quem mais precisa.\nSe quiser saber como usar alguma funcionalidade, estou por aqui! 💬"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#sobre_projeto",
+      "dialog_node": "node_1_1748644741846",
+      "previous_sibling": "node_10_1748644698156"
+    },
+    {
+      "type": "standard",
+      "title": "ZL",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🧭 Região Leste detectada.\nBusque estruturas públicas longe do Tietê e de áreas de encosta.\n🔸 CEU São Rafael e CEU Quinta do Sol\n🔸 Escolas estaduais com ginásio coberto\n🔸 Centros esportivos municipais\nLocais elevados e com cobertura são os mais indicados."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1748655113845",
+      "conditions": "@localizacao:(Zona Leste)",
+      "dialog_node": "node_1_1748657555884",
+      "previous_sibling": "node_9_1748655374754"
+    },
+    {
+      "type": "standard",
+      "title": "Jump To Emergencia Alta",
+      "output": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1748651631614"
+      },
+      "conditions": "#emergencia && @grupo_risco:criança || @grupo_risco:idoso",
+      "dialog_node": "node_1_1748658819818",
+      "previous_sibling": "node_2_1748658745030"
+    },
+    {
+      "type": "standard",
+      "title": "Proteger",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sobre qual situação você precisa de informações: enchente, deslizamento, incêndio ou vendaval?"
+              },
+              {
+                "text": "Me informe o tipo de desastre que está acontecendo ou que você quer se preparar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#como_se_proteger",
+      "dialog_node": "node_2_1748647563150",
+      "previous_sibling": "node_5_1748658920750"
+    },
+    {
+      "type": "standard",
+      "title": "Incêndio",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🔥 Dicas de Proteção em Caso de Incêndio:\n\n1. Mantenha a calma e evacue o local imediatamente.\n\n2. Não use elevadores — desça pelas escadas e ajude quem estiver com dificuldade.\n\n3. Cubra o nariz e a boca com um pano úmido, se houver fumaça.\n\n4. Nunca volte para pegar objetos. A prioridade é sua vida.\n\n5. Se sua roupa pegar fogo, pare, deite e role para apagar as chamas.\n\n6. Avise os vizinhos e ligue imediatamente para os Bombeiros: 193.\n\n7. Evite acúmulo de fios e tomadas sobrecarregadas em casa — isso previne focos de incêndio.\n\n🚨 Em qualquer sinal de fogo ou fumaça anormal, acione os Bombeiros o quanto antes."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1748647563150",
+      "conditions": "@tipo_desastre:incêndio",
+      "dialog_node": "node_2_1748650821825",
+      "previous_sibling": "node_5_1748650780681"
+    },
+    {
+      "type": "standard",
+      "title": "Jump To Emergencia Muito Alta",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1748651461726"
+      },
+      "conditions": "#emergencia && @grupo_risco:pcd || @grupo_risco:gestante",
+      "dialog_node": "node_2_1748658745030",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Abrigo ZS",
+      "output": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1748655374754"
+      },
+      "conditions": "#locais_seguro && @localizacao:(Zona Sul)",
+      "dialog_node": "node_2_1748658909615",
+      "previous_sibling": "node_8_1748658869664"
+    },
+    {
+      "type": "standard",
+      "title": "Abrigo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🗺️ Para te orientar melhor, em qual região de São Paulo você está?\nVocê pode responder com uma das opções abaixo:\n\nZona Norte\nZona Sul\nZona Leste\nZona Oeste\nCentro"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#locais_seguro",
+      "dialog_node": "node_3_1748655113845",
+      "previous_sibling": "node_10_1748651362232"
+    },
+    {
+      "type": "standard",
+      "title": "ZN",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🧭 Você está na Zona Norte?\nRecomendo buscar locais elevados e com estrutura resistente.\n🔸 Anhembi Parque – grande, coberto e com boa acessibilidade\n🔸 CEU Jaçanã – abrigo comunitário com suporte\n🔸 Escolas estaduais e municipais mais próximas também podem ser usadas como pontos de apoio temporário\nEvite encostas e áreas de alagamento."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1748655113845",
+      "conditions": "@localizacao:(Zona Norte)",
+      "dialog_node": "node_3_1748655243122"
+    },
+    {
+      "type": "standard",
+      "title": "Abrigo ZL",
+      "output": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1748657555884"
+      },
+      "conditions": "#locais_seguro && @localizacao:(Zona Leste)",
+      "dialog_node": "node_3_1748658911179",
+      "previous_sibling": "node_2_1748658909615"
+    },
+    {
+      "type": "standard",
+      "title": "Deslizamento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🏞️ Dicas de Proteção em Caso de Deslizamento:\n\n1. Fique atento a rachaduras nas paredes, inclinação de postes ou árvores e barulhos incomuns vindos do solo.\n\n2. Sinais como portas emperrando ou muros trincando podem indicar risco iminente.\n\n3. Evacue imediatamente se houver qualquer sinal de movimentação de terra ou recomendação da Defesa Civil.\n\n4. Não tente salvar pertences — a prioridade é a sua vida e a da sua família.\n\n5. Evite áreas de encostas e morros durante chuvas fortes.\n\n6. Apoie idosos, crianças e pessoas com deficiência na evacuação.\n\n7. Ligue 199 para a Defesa Civil ao notar qualquer risco de deslizamento.\n\n⚠️ A prevenção é a melhor proteção. Se possível, evite construir ou morar em áreas com risco geológico."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1748647563150",
+      "conditions": "@tipo_desastre:deslizamento",
+      "dialog_node": "node_4_1748650906913",
+      "previous_sibling": "node_2_1748650821825"
+    },
+    {
+      "type": "standard",
+      "title": "ZO",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🧭 Zona Oeste localizada.\nPrefira locais fechados e altos, longe do Rio Pinheiros.\n🔸 CEU Butantã ou CEU Uirapuru\n🔸 Clubes municipais (ex: Pelezão)\n🔸 Parque Villa-Lobos – áreas internas de apoio\nEvite áreas próximas de encostas e vias alagáveis."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1748655113845",
+      "conditions": "@localizacao:(Zona Oeste)",
+      "dialog_node": "node_4_1748657599915",
+      "previous_sibling": "node_1_1748657555884"
+    },
+    {
+      "type": "standard",
+      "title": "Centro",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🧭 Você está no Centro?\nOpte por construções públicas e sólidas.\n🔸 Subprefeitura da Sé ou Edifício Matarazzo (prefeitura)\n🔸 Estação da Luz – andar superior ou salas de apoio\n🔸 CEU Caminho do Mar (mais ao sul do centro estendido)\nEvite regiões do vale e avenidas de escoamento."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1748655113845",
+      "dialog_node": "node_4_1748657634143",
+      "previous_sibling": "node_4_1748657599915"
+    },
+    {
+      "type": "standard",
+      "title": "Abrigo ZO",
+      "output": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1748657599915"
+      },
+      "conditions": "#locais_seguro && @localizacao:(Zona Oeste)",
+      "dialog_node": "node_4_1748658912890",
+      "previous_sibling": "node_3_1748658911179"
+    },
+    {
+      "type": "standard",
+      "title": "Vendaval",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🌪️ Dicas de Proteção em Caso de Vendaval:\n\n1. Fique dentro de casa e longe de janelas, portas de vidro e estruturas frágeis.\n\n2. Desligue aparelhos elétricos das tomadas para evitar danos com quedas de energia.\n\n3. Não se abrigue sob árvores ou coberturas frágeis como telhados de zinco ou tendas.\n\n4. Reforce portas e janelas e remova objetos soltos de sacadas e quintais.\n\n5. Evite usar elevadores durante ventos muito fortes, principalmente em edifícios.\n\n6. Se estiver na rua, procure abrigo seguro imediatamente.\n\n7. Mantenha-se informado com os alertas da Defesa Civil e prefeituras locais.\n\n⚠️ Em caso de risco grave, ligue 199 para a Defesa Civil ou 193 para os Bombeiros."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1748647563150",
+      "conditions": "@tipo_desastre:vendaval",
+      "dialog_node": "node_5_1748650780681",
+      "previous_sibling": "node_8_1748650546844"
+    },
+    {
+      "type": "standard",
+      "title": "Abrigo Centro",
+      "output": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1748657634143"
+      },
+      "conditions": "#locais_seguro && @localizacao:(Zona Norte)",
+      "dialog_node": "node_5_1748658920750",
+      "previous_sibling": "node_4_1748658912890"
+    },
+    {
+      "type": "standard",
+      "title": "Enchentes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "💧 Dicas de Proteção em Caso de Enchente:\n\n1. Desligue a energia elétrica assim que notar risco de alagamento em sua casa.\n\n2. Evite contato com a água da enchente — ela pode estar contaminada ou esconder perigos.\n\n3. Suba para locais elevados e nunca tente atravessar áreas alagadas a pé ou de carro.\n\n4. Separe documentos e objetos importantes em sacos plásticos e mantenha-os em lugar seguro.\n\n5. Acompanhe os alertas da Defesa Civil e siga as instruções oficiais.\n\n6. Ajude pessoas em situação de risco, como idosos, crianças e pessoas com deficiência.\n\n7. Tenha uma mochila de emergência pronta, com água, alimentos, lanternas, documentos e remédios.\n\n🚨 Em caso de emergência, ligue 199 para a Defesa Civil."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1748647563150",
+      "conditions": "@tipo_desastre:enchente",
+      "dialog_node": "node_8_1748650546844"
+    },
+    {
+      "type": "standard",
+      "title": "Abrigo ZN",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_3_1748655243122"
+      },
+      "conditions": "#locais_seguro && @localizacao:(Zona Norte)",
+      "dialog_node": "node_8_1748658869664",
+      "previous_sibling": "node_1_1748658819818"
+    },
+    {
+      "type": "frame",
+      "title": "Prioridade muito altas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "⚠️ Situação crítica detectada. A pessoa em risco pertence a um grupo de prioridade muito alta $grupo.\nIremos acionar imediatamente a Defesa Civil (199) e garantir que a evacuação seja feita com apoio adequado.\nEvite qualquer atraso — cada minuto conta."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1748651362232",
+      "conditions": "@grupo_risco:pcd || @grupo_risco:gestante",
+      "dialog_node": "node_9_1748651461726"
+    },
+    {
+      "type": "frame",
+      "title": "Prioridade altas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🚨 Atenção: a pessoa em risco pertence ao grupo de prioridade alta $grupo.\nMantenha a calma, auxilie na locomoção. Iremos entrar em contato com a Defesa Civil (199) se houver risco imediato.\nA segurança deve ser garantida o quanto antes, principalmente em áreas de alagamento ou deslizamento."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1748651362232",
+      "conditions": "@grupo_risco:criança && @grupo_risco:idoso",
+      "dialog_node": "node_9_1748651631614",
+      "previous_sibling": "node_9_1748651461726"
+    },
+    {
+      "type": "standard",
+      "title": "ZS",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "🧭 Zona Sul identificada!\nProcure áreas amplas, cobertas e fora de zonas de risco geológico.\n🔸 CEU Casa Blanca ou CEU Campo Limpo\n🔸 Clubes municipais ou quadras cobertas da prefeitura\n🔸 Terminais de ônibus em áreas altas (ex: Santo Amaro)\nEvite margens de rios e morros instáveis."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1748655113845",
+      "conditions": "@localizacao:(Zona Sul)",
+      "dialog_node": "node_9_1748655374754",
+      "previous_sibling": "node_3_1748655243122"
+    },
+    {
+      "type": "slot",
+      "parent": "node_9_1748651461726",
+      "variable": "$grupo",
+      "dialog_node": "slot_1_1748654690642"
+    },
+    {
+      "type": "slot",
+      "parent": "node_9_1748651631614",
+      "variable": "$grupo",
+      "dialog_node": "slot_3_1748654821037"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores",
+      "use_connect_to_support_prompt": "Connect to support",
+      "single_answer_clarification_prompt": "Something else"
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "language": "pt-br",
+  "description": "",
+  "name": "Guardian - Global Solution FIAP-dialog"
+}
