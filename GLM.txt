@@ -1,15 +1,1 @@
-Assistant
-
-API KEY: w0gRvdd7Mmj0_9P46lmGQJqHhTPYFcRKcFQWYZyK1BVJ
-URL: https://api.au-syd.assistant.watson.cloud.ibm.com/instances/caa63f65-088b-4f37-9de8-7af5a9ee725b
-Assistant ID: 0f1bd8c9-2a86-4028-ae36-66e9ca3f96f3
-
-Telegram API Key: 7793083911:AAF-H8tFLeeD21FNfWJmJG4ZoLJyhXnYF84
-
-Link Video Explicativo:
-https://youtu.be/D4cGRaM7KGo
-
-Integrantes:
-Gustavo Tavares da Silva - RM562827
-Laura Lopes Cruz - RM566376
-Maicon Douglas da Silva Timoteo - RM561279
+Informações enviadas via Portal da Fiap
